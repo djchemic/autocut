@@ -66,6 +66,13 @@ config:
 cd ~/Library/Application\ Support/Autocut
 cp config.json.bak config.json
 ```
+## Routing to Atem Mini Pro Iso/or other models
+- use the Mic1 and Mic2 input at the back
+- For Mic1 i choosed host and for Mic2 guest(s)
+- I have routed from RodeCaster Pro II 3.5mm jacks via "Custom mix"
+- Rodecaster Pro II lets you select which channel goes where by "Routing"
+- Dont forget to set Atem Mini inputs to Line not to microphone input.
+
 
 ## Default working values
 
